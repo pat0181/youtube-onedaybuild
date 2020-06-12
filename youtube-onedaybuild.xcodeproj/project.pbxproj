@@ -16,6 +16,7 @@
 		D087D7A324778C8400ED3259 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D087D7A124778C8400ED3259 /* Main.storyboard */; };
 		D087D7A524778C8600ED3259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D087D7A424778C8600ED3259 /* Assets.xcassets */; };
 		D087D7A824778C8600ED3259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D087D7A624778C8600ED3259 /* LaunchScreen.storyboard */; };
+		D08D9CD624932DD50019AC2C /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08D9CD524932DD50019AC2C /* ConstantsTemplate.swift */; };
 		D0DF4A5A2483480D0033C487 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DF4A592483480D0033C487 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		D087D7A424778C8600ED3259 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D087D7A724778C8600ED3259 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D087D7A924778C8600ED3259 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D08D9CD524932DD50019AC2C /* ConstantsTemplate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		D0DF4A592483480D0033C487 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 				D087D7A624778C8600ED3259 /* LaunchScreen.storyboard */,
 				D087D7A924778C8600ED3259 /* Info.plist */,
 				D0DF4A592483480D0033C487 /* Constants.swift */,
+				D08D9CD524932DD50019AC2C /* ConstantsTemplate.swift */,
 				D00F562724834CF700AEDAD7 /* Video.swift */,
 				D00F562924834D7B00AEDAD7 /* Model.swift */,
 				D0326ECB248AAD3A003830F1 /* Response.swift */,
@@ -153,6 +156,7 @@
 				D087D7A024778C8400ED3259 /* ViewController.swift in Sources */,
 				D087D79C24778C8400ED3259 /* AppDelegate.swift in Sources */,
 				D087D79E24778C8400ED3259 /* SceneDelegate.swift in Sources */,
+				D08D9CD624932DD50019AC2C /* ConstantsTemplate.swift in Sources */,
 				D00F562A24834D7B00AEDAD7 /* Model.swift in Sources */,
 				D0DF4A5A2483480D0033C487 /* Constants.swift in Sources */,
 				D00F562824834CF700AEDAD7 /* Video.swift in Sources */,
